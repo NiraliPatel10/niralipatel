@@ -24,4 +24,4 @@
 ---
 
  *Currently learning advanced SQL joins and Power BI DAX functions.*  
- **Connect with me:** [LinkedIn](#)
+ **Connect with me:** [LinkedIn](#www.linkedin.com/in/nirali-patel-4a7298209)
